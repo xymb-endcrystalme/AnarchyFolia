@@ -46,7 +46,7 @@ out/
 # other stuff
 run/
 
-forktest-server
-forktest-api
+anarchyfolia-server
+anarchyfolia-api
 
 !gradle/wrapper/gradle-wrapper.jar

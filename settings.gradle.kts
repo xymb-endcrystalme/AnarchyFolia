@@ -5,6 +5,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "forktest"
+rootProject.name = "anarchyfolia"
 
-include("forktest-api", "forktest-server")
+include("anarchyfolia-api", "anarchyfolia-server")
