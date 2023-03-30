@@ -15,7 +15,7 @@ All gameplay-breaking/backwards-incompatible optimizations are turned off by def
 TODO
 
 ### Compiling/running
-Just refer to original [Folia's README file](https://google.com), the usage is pretty much the same.
+Just refer to original [Folia's README file](https://github.com/PaperMC/Folia), the usage is pretty much the same.
 ```
 ./gradlew applyPatches
 ./gradlew createReobfPaperclipJar
