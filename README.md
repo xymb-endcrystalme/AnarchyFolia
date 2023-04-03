@@ -9,6 +9,7 @@ All gameplay-breaking/backwards-incompatible optimizations are turned off by def
 - [ ] [Linear region file](https://github.com/xymb-endcrystalme/LinearRegionFileFormatTools) format
 - [ ] Huge (10k+ dubs) stash optimization
 - [ ] Limits on entity ticking
+- [ ] Hopper & shulker handling optimizations
 - [ ] Automatic update upstream
 
 ### Configuration
